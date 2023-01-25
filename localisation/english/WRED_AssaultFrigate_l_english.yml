@@ -1,0 +1,6 @@
+﻿l_english:
+  CORVETTE_WRED_ASSAULTFRIGATE_MID_S5:0 "AssaultFrigate Core"
+  WRED_AssaultFrigateMod_tech:0 "Assault Frigate"
+  WRED_AssaultFrigateMod_tech_desc:0 "Assault Frigate section research"
+  TECH_WRED_UNLOCK_ASSAULTFRIGATE_CONSTRUCTION_TITLE:0 "§HUnlocks Ship Type:§! AssaultFrigate\nscientist ready to find a better frigate to protect our country, this Assault Frigate can do better than normal corvette,§Rbut it cost more§!"
+  TECH_WRED_UNLOCK_ASSAULTFRIGATE_CONSTRUCTION_DESC:0 "We are ready to research Assault Frigate section"

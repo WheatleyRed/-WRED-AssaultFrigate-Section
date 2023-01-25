@@ -1,0 +1,6 @@
+﻿l_simp_chinese:
+  CORVETTE_WRED_ASSAULTFRIGATE_MID_S5:0 "突击护卫舰 核心"
+  WRED_AssaultFrigateMod_tech:0 "突击护卫舰"
+  WRED_AssaultFrigateMod_tech_desc:0 "开始高级突击护卫舰的研究"
+  TECH_WRED_UNLOCK_ASSAULTFRIGATE_CONSTRUCTION_TITLE:0 "§H解锁部件：§!突击护卫舰区段\n准备高级突击护卫舰区块的研究工作，该护卫舰拥有更多的武器槽位和防御槽位，同时具有更好的改装性(A槽也增加)，§R但是需要花费更多的资金去建造§!"
+  TECH_WRED_UNLOCK_ASSAULTFRIGATE_CONSTRUCTION_DESC:0 "突击护卫舰区块核心的研究工作"
